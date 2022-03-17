@@ -1,7 +1,5 @@
 import './myLabel.css'
 
-
-
 export interface MyLabelProps {
    /**
    * Label is for a message 
@@ -47,3 +45,5 @@ export const MyLabel = ( {
     </span>
   )
 }
+
+export default MyLabel;
